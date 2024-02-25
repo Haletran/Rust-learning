@@ -11,25 +11,25 @@ Rust is a fast, reliable, and productive language for building software on embed
 ## Commands
 
 Native Compilation :
-```
+```bash
 > rustc file.rs
 ```
 
 Create a new rust project : 
-```
+```bash
 > cargo new name_of_the_project
 ```
 
 Compilation and build dependencies:
-```
+```bash
 > cargo build
-(create a target folder and Cargo.lock)
-Or :
+// (create a target folder and Cargo.lock)
+// Or :
 > cargo run
 ```
 
 Check Cargo project:
-```
+```bash
 > cargo check
 ```
 
