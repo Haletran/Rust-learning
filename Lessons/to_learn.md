@@ -33,6 +33,22 @@ Check Cargo project:
 > cargo check
 ```
 
+## Variables
+
+
+## Arithmetic and type-casting
+
+
+## Data types
+
+
+## Conditions, control flow
+
+
+## Functions, expressions and statements
+
+
+
 ## Memory Management
 
 The **borrow checker** analyze the code and check for memory safety.
